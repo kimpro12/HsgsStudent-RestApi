@@ -4,16 +4,18 @@ import com.HsgsStudent.Data.Data;
 import com.HsgsStudent.Data.DataSort;
 import com.HsgsStudent.Data.ProcessData;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.ArrayList;
 
 @RestController
+@RequestMapping("/api")
 public class RestApi {
-    final String FILEDATANAME = "data.txt";
+    final String FILEDATANAME_V1 = "datav1.txt";
 
-    @GetMapping("/getinfo")
+    @GetMapping("/v1/getinfo")
     public ArrayList<Data> getFullInfomation(@RequestParam(name = "firstname") String firstname,
                                              @RequestParam(name = "midname") String midname,
                                              @RequestParam(name = "lastname") String lastname,
@@ -23,7 +25,7 @@ public class RestApi {
                                              @RequestParam(name = "lop") String lop,
                                              @RequestParam(name = "hechuyen") String hechuyen) {
         ProcessData process = new ProcessData();
-        ArrayList<Data> data = process.getDataFromFile(FILEDATANAME);
+        ArrayList<Data> data = process.getDataFromFile(FILEDATANAME_V1);
         ArrayList<String> listmidname = process.convertMidnameToListMidName(midname);
         if (firstname.equalsIgnoreCase("null")) firstname = null;
         if (midname.equalsIgnoreCase("null")) listmidname = null;
