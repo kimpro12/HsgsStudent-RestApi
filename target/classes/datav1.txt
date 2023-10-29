@@ -1834,3 +1834,482 @@ Trần Long|Vũ|05/12/2006|12A1 CLC
 Lương Minh|Vương|25/08/2006|12A1 Lý
 Nguyễn Hà|Vy|03/01/2006|12A1 Hóa
 Phan Khánh|Vy|23/04/2006|12A1 CLC
+Võ|Alexander|29/10/2004|12A2 Lý
+Nguyễn Danh|An|05/12/2005|12A2 Hóa
+Nguyễn Đại|An|12/02/2005|12A1 Toán
+Nguyễn Ngọc Bảo|An|11/09/2005|12A1 CLC
+Nguyễn Vũ|An|19/08/2005|12A1 Tin
+Trần Công Đức|An|19/07/2005|12A2 Toán
+Bùi Hải|Anh|01/01/2005|12A2 Lý
+Bùi Ngọc Đức|Anh|15/08/2005|12A2 Lý
+Đào Duy|Anh|15/08/2005|12A1 Lý
+Đặng Nam|Anh|04/01/2005|12A2 Tin
+Đỗ Ngọc|Anh|17/01/2005|12A2 Tin
+Hà Hồng|Anh|30/01/2005|12A1 CLC
+Kim Hà|Anh|10/07/2005|12A1 Toán
+Lăng Hồng Nguyệt|Anh|22/06/2005|12A2 Toán
+Lê Đức|Anh|23/05/2005|12A2 CLC
+Lê Hà Tú|Anh|25/03/2005|12A1 Hóa
+Lê Hải|Anh|02/05/2005|12A1 Tin
+Lê Hiền|Anh|04/05/2005|12A1 Sinh
+Lê Minh|Anh|24/11/2005|12A1 Sinh
+Lê Nguyên|Anh|15/08/2005|12A1 CLC
+Lương Quang|Anh|01/11/2005|12A1 CLC
+Lưu Trần Quỳnh|Anh|10/07/2005|12A2 Hóa
+Ngô Duy|Anh|28/09/2005|12A2 Sinh
+Ngô Đức|Anh|12/11/2005|12A2 Lý
+Nguyễn Đồng Minh|Anh|25/12/2005|12A2 Tin
+Nguyễn Đức|Anh|16/01/2005|12A2 CLC
+Nguyễn Đức|Anh|24/09/2005|12A1 Hóa
+Nguyễn Hoàng|Anh|04/11/2005|12A2 Toán
+Nguyễn Ngọc Thư|Anh|11/11/2005|12A1 Sinh
+Nguyễn Nhật|Anh|11/03/2005|12A1 Tin
+Nguyễn Phương|Anh|09/03/2005|12A1 Hóa
+Nguyễn Quang|Anh|02/02/2005|12A1 Lý
+Nguyễn Quang|Anh|07/06/2005|12A2 Lý
+Nguyễn Thế Lâm|Anh|08/04/2005|12A2 CLC
+Nguyễn Thị Mai|Anh|03/09/2005|12A2 Lý
+Nguyễn Tuệ|Anh|30/12/2005|12A1 Sinh
+Phạm Quế|Anh|02/02/2005|12A1 Sinh
+Phạm Thị Hoàng|Anh|01/01/2005|12A2 CLC
+Phạm Tuấn|Anh|25/01/2005|12A2 CLC
+Phạm Tùng|Anh|29/09/2005|12A2 Lý
+Trần Đức Nam|Anh|02/12/2005|12A2 Tin
+Trần Nam|Anh|17/02/2005|12A1 Toán
+Trần Nam Nguyệt|Anh|10/10/2005|12A1 Tin
+Trần Nam Nhật|Anh|10/10/2005|12A1 Tin
+Trần Thùy|Anh|07/12/2005|12A2 Sinh
+Võ Đức|Anh|10/11/2005|12A2 Hóa
+Vũ Đức|Anh|13/02/2005|12A1 Hóa
+Vũ Thục|Anh|19/06/2005|12A1 Sinh
+Nguyễn Ngọc|Ánh|13/01/2005|12A2 Toán
+Nguyễn Anh Hoàng|Ân|15/10/2005|12A1 Lý
+Nguyễn Lê Gia|Bảo|22/02/2005|12A1 CLC
+Trương Trần Minh|Bảo|16/02/2005|12A1 Toán
+Lã Hoàng|Bách|22/03/2005|12A2 Hóa
+Lê Hoàng|Bách|30/12/2005|12A1 Lý
+Nguyễn Hà|Bách|29/01/2005|12A1 Toán
+Nguyễn Vũ Gia|Bách|21/09/2005|12A2 Hóa
+Trần Đăng|Bách|21/05/2005|12A2 Hóa
+Đặng Hải|Bình|27/11/2005|12A1 Lý
+Đoàn Gia|Bình|30/07/2005|12A2 Hóa
+Nguyễn Thị Thanh|Bình|10/02/2005|12A1 Toán
+Hoàng Thị Ngọc|Cầm|21/10/2005|12A1 CLC
+Đinh Bảo|Châu|05/11/2005|12A2 Sinh
+Hồ Huyền|Châu|29/04/2005|12A1 Hóa
+Lê Hải|Châu|15/01/2005|12A1 Lý
+Lê Minh|Châu|26/12/2005|12A2 Hóa
+Nguyễn Minh|Châu|07/07/2005|12A2 CLC
+Nguyễn Minh|Châu|11/10/2005|12A2 Sinh
+Trần Hoàng Bảo|Châu|27/09/2005|12A1 Sinh
+Nguyễn Mai|Chi|04/09/2005|12A2 Toán
+Trần Nhật Mai|Chi|12/10/2005|12A1 Lý
+Bùi Kim|Chúc|11/03/2005|12A2 Toán
+Đỗ Trí|Công|19/07/2005|12A1 Lý
+Lê Việt|Cường|15/10/2005|12A1 Toán
+Nguyễn Cao|Cường|22/02/2005|12A1 Hóa
+Đào Thị Bạch|Diệp|25/12/2005|12A1 Lý
+Nguyễn|Doanh|29/09/2005|12A2 Toán
+Đàm Đức|Duy|24/10/2005|12A2 Hóa
+Đào Đức|Duy|10/06/2005|12A1 CLC
+Đặng Đình Phúc|Duy|18/01/2005|12A1 Sinh
+Đỗ Nhật|Duy|15/10/2005|12A1 Tin
+Nguyễn Thị|Duyên|10/01/2005|12A1 Sinh
+Bùi Đức|Dũng|12/09/2005|12A2 CLC
+Hà Trung|Dũng|30/07/2005|12A2 Lý
+Hồ Anh|Dũng|17/07/2005|12A1 CLC
+Lại Tiến|Dũng|02/10/2005|12A2 Tin
+Lê Quang|Dũng|08/08/2005|12A1 Tin
+Nguyễn Tấn|Dũng|31/01/2005|12A1 Toán
+Nguyễn Trí|Dũng|19/07/2005|12A1 Toán
+Nguyễn Trí|Dũng|11/11/2005|12A2 Lý
+Nguyễn Trí|Dũng|22/11/2005|12A1 Hóa
+Nguyễn Văn|Dũng|08/11/2005|12A1 Lý
+Nguyễn Việt|Dũng|13/11/2005|12A2 Lý
+Phạm Việt|Dũng|01/03/2005|12A1 Tin
+Trần Ngọc|Dũng|14/12/2005|12A2 Toán
+Trần Tiến|Dũng|11/09/2005|12A2 Tin
+Vũ Trí|Dũng|20/01/2005|12A1 Tin
+Bùi Huy|Dương|07/04/2005|12A1 Hóa
+Hoàng Ánh|Dương|10/07/2005|12A2 Sinh
+Nguyễn Đức|Dương|23/01/2005|12A2 Tin
+Nguyễn Thế|Dương|13/08/2005|12A1 Hóa
+Nguyễn Thùy|Dương|01/02/2005|12A1 Sinh
+Nguyễn Thùy|Dương|06/07/2005|12A2 Tin
+Phạm Ngọc Hải|Dương|20/03/2005|12A1 Tin
+Trần Hoàng|Dương|27/09/2005|12A1 Tin
+Trần Thái|Dương|16/08/2005|12A2 Hóa
+Vũ Tùng|Dương|10/08/2005|12A2 CLC
+Ngô Minh|Đạo|03/02/2005|12A1 Sinh
+Nguyễn Bích|Đạt|29/07/2005|12A1 Tin
+Nguyễn Tiến|Đạt|11/03/2005|12A1 Tin
+Trần Tiến|Đạt|04/06/2005|12A1 Hóa
+Trần Văn|Đạt|13/05/2005|12A1 CLC
+Phạm Hải|Đăng|15/01/2005|12A2 Toán
+Đặng Trung|Đoàn|29/03/2005|12A2 Toán
+Trần Quí|Đôn|30/01/2005|12A2 Lý
+Cao Văn|Đông|18/04/2005|12A1 Toán
+Đào Mạnh|Đức|26/06/2005|12A2 Lý
+Đặng Đình|Đức|04/06/2005|12A2 Sinh
+Hoàng Minh|Đức|28/07/2005|12A2 CLC
+Kim Ngọc|Đức|01/10/2005|12A2 Hóa
+Lê Xuân Anh|Đức|18/01/2005|12A1 Hóa
+Nguyễn Minh|Đức|09/07/2005|12A2 Toán
+Nguyễn Minh|Đức|12/11/2005|12A1 Toán
+Nguyễn Quý|Đức|14/04/2005|12A2 Toán
+Nguyễn Trung|Đức|31/08/2005|12A1 Tin
+Nguyễn Xuân|Đức|10/11/2005|12A2 Hóa
+Phạm Minh|Đức|19/02/2005|12A1 Hóa
+Phạm Minh|Đức|29/08/2005|12A1 Toán
+Phạm Minh|Đức|15/12/2005|12A2 Lý
+Trần Văn Trung|Đức|25/06/2005|12A1 Toán
+Trương Minh|Đức|10/02/2005|12A1 Sinh
+Vũ Minh|Đức|29/06/2005|12A2 Tin
+Vương Minh|Đức|04/02/2005|12A2 Hóa
+Bùi Hương|Giang|11/10/2005|12A2 Tin
+Cao Hương|Giang|04/06/2005|12A1 Sinh
+Đỗ Thị Hoài|Giang|11/10/2005|12A1 CLC
+Hoàng Thu|Giang|02/09/2005|12A2 Sinh
+Ngô Thanh|Giang|27/10/2005|12A1 CLC
+Nguyễn Thu|Giang|06/05/2005|12A1 CLC
+Nguyễn Trường|Giang|21/06/2005|12A1 Lý
+Đào Ngọc|Hà|24/05/2005|12A2 Tin
+Nguyễn Thu|Hà|20/10/2005|12A2 Sinh
+Vũ Thị Hải|Hà|23/12/2005|12A2 Hóa
+Đặng Vũ|Hải|30/03/2005|12A1 Tin
+Đinh Hà|Hải|31/07/2005|12A1 Toán
+Mai Trung|Hải|31/05/2005|12A2 Toán
+Nguyễn|Hải|20/03/2005|12A1 CLC
+Nguyễn Xuân|Hải|14/11/2005|12A1 CLC
+Phạm Trọng Đông|Hải|06/09/2005|12A2 Tin
+Vũ Thu|Hiền|21/10/2005|12A2 CLC
+Nguyễn Hà Minh|Hiển|16/01/2005|12A1 Sinh
+Trần Minh|Hiển|02/02/2005|12A2 Lý
+Bùi Duy|Hiếu|21/04/2005|12A2 Tin
+Bùi Lê Đức|Hiếu|28/12/2005|12A2 Tin
+Đàm Trung|Hiếu|23/07/2005|12A1 CLC
+Đặng Minh|Hiếu|17/06/2005|12A1 Lý
+Hoàng Trung|Hiếu|15/02/2005|12A1 Sinh
+Lê Nguyễn Viết|Hiếu|03/10/2005|12A2 CLC
+Lê Trung|Hiếu|22/09/2005|12A2 Hóa
+Nguyễn Quang|Hiếu|19/04/2005|12A1 Lý
+Nguyễn Trung|Hiếu|11/03/2005|12A1 Lý
+Ninh Đình|Hiếu|11/08/2005|12A1 Toán
+Vũ Trọng|Hiếu|01/10/2005|12A1 Tin
+Vương Toàn Minh|Hiếu|01/04/2005|12A2 Hóa
+Nguyễn Đặng|Hiệp|20/04/2005|12A2 CLC
+Nguyễn Trọng|Hiệp|22/11/2005|12A2 Toán
+Đoàn Ngọc|Hoa|19/08/2005|12A2 Sinh
+Phạm Văn Vũ|Hoàn|22/06/2005|12A2 Lý
+Dương Huy|Hoàng|06/04/2005|12A2 Lý
+Dương Minh|Hoàng|19/09/2005|12A2 Tin
+Dương Việt|Hoàng|06/10/2005|12A2 Hóa
+Lê Minh|Hoàng|06/06/2005|12A1 Lý
+Nguyễn Đắc|Hoàng|01/01/2005|12A2 CLC
+Nguyễn Minh|Hoàng|17/07/2005|12A1 CLC
+Nguyễn Năng|Hoàng|23/10/2005|12A2 Tin
+Trần Đức|Hoàng|03/06/2005|12A2 Lý
+Trần Ngọc Bảo|Hoàng|22/02/2005|12A2 Toán
+Đoàn Yến|Hồng|22/10/2005|12A1 Sinh
+Nguyễn Khánh|Hồng|28/10/2005|12A1 Sinh
+Tạ Thị Bích|Huệ|06/03/2005|12A2 Toán
+Hoàng Đức|Huy|18/06/2005|12A1 Hóa
+Lê Gia|Huy|27/03/2005|12A1 Tin
+Lê Quang|Huy|08/10/2005|12A2 Tin
+Lương Bảo|Huy|05/09/2005|12A1 CLC
+Nguyễn Đình Minh|Huy|21/12/2005|12A1 Hóa
+Nguyễn Nam|Huy|19/04/2005|12A2 Tin
+Nguyễn Phú Gia|Huy|29/05/2005|12A2 Lý
+Nguyễn Quang|Huy|02/07/2005|12A2 CLC
+Phạm Gia|Huy|20/11/2005|12A2 Lý
+Trần Quang|Huy|15/01/2005|12A1 Lý
+Võ Khắc|Huy|15/09/2005|12A2 Sinh
+Vũ Đức|Huy|08/06/2005|12A2 Lý
+Nguyễn Khánh|Huyền|31/01/2005|12A2 Sinh
+Nguyễn Thị Phương|Huyền|17/11/2005|12A2 Toán
+Nguyễn Thị Thu|Huyền|19/08/2005|12A2 Toán
+Đào Bắc|Hùng|09/12/2005|12A2 Tin
+Điền Mạnh|Hùng|01/02/2005|12A1 CLC
+Lê Khả Việt|Hùng|18/11/2005|12A1 Tin
+Lương Đức|Hùng|21/07/2005|12A1 Tin
+Tạ Quốc|Hùng|10/03/2005|12A2 Tin
+Tô Mạnh|Hùng|12/10/2005|12A2 Lý
+Trương Quang|Hùng|06/11/2005|12A2 CLC
+Vũ Mạnh|Hùng|11/01/2005|12A1 Lý
+Bùi Khánh|Hưng|17/07/2005|12A2 Lý
+Đinh Gia|Hưng|31/10/2005|12A1 Tin
+Đỗ Phú|Hưng|15/06/2005|12A2 Lý
+Nguyễn Quang|Hưng|24/09/2005|12A1 Hóa
+Nguyễn Thế|Hưng|04/02/2005|12A1 Sinh
+Nguyễn Xuân Thành|Hưng|01/10/2005|12A1 Toán
+Phạm Quang|Hưng|02/07/2005|12A1 Lý
+Trần Khánh|Hưng|03/06/2005|12A1 Hóa
+Võ Thành|Hưng|30/07/2005|12A2 Hóa
+Nguyễn Minh|Hương|19/07/2005|12A2 CLC
+Trịnh Ngọc Thu|Hương|18/10/2005|12A2 Hóa
+Đoàn Phương|Khang|04/11/2005|12A1 Toán
+Lâm Tấn|Khang|05/11/2005|12A1 Toán
+Nguyễn Hữu|Khang|17/12/2005|12A2 Tin
+Vũ Phạm Vân|Khanh|17/03/2005|12A2 Toán
+Đặng Xuân|Khải|27/07/2005|12A2 CLC
+Đặng Nam|Khánh|23/10/2005|12A1 Tin
+Đỗ Duy Gia|Khánh|27/10/2005|12A1 Lý
+Kiều Phương Bảo|Khánh|13/07/2005|12A2 Sinh
+Lê Minh|Khánh|07/03/2005|12A1 Tin
+Nguyễn Nam|Khánh|05/05/2005|12A2 CLC
+Nguyễn Quốc|Khánh|20/08/2005|12A1 CLC
+Thiều Nam|Khánh|05/01/2005|12A2 Lý
+Dương Đăng|Khoa|06/03/2005|12A2 Toán
+Nguyễn Đoàn Văn|Khoa|17/11/2005|12A1 Toán
+Phạm Minh|Khoa|03/03/2005|12A1 Sinh
+Thiều Đăng|Khoa|24/07/2005|12A2 Lý
+Trương Vĩnh|Khoa|10/10/2005|12A2 Hóa
+Ngô Minh Nguyệt|Khuê|19/03/2005|12A1 Sinh
+Phạm Minh|Khuê|11/07/2005|12A1 Lý
+Vũ|Khuê|29/11/2005|12A2 Toán
+Bùi Trung|Kiên|23/09/2005|12A2 Toán
+Mai Trung|Kiên|15/04/2005|12A2 Lý
+Nguyễn Trung|Kiên|11/07/2005|12A1 Hóa
+Phạm Đức|Kiên|27/07/2005|12A1 Toán
+Phạm Trung|Kiên|09/01/2005|12A2 Toán
+Nguyễn My|Lan|21/04/2005|12A1 Tin
+Nguyễn Đinh|Lăng|17/04/2005|12A2 Lý
+Bùi Việt|Lâm|05/01/2005|12A2 Hóa
+Lê Thanh|Lâm|29/08/2005|12A1 Toán
+Nguyễn Hải|Lâm|02/06/2005|12A1 CLC
+Nguyễn Tùng|Lâm|25/06/2005|12A2 Tin
+Nguyễn Viết|Lâm|25/02/2005|12A1 Toán
+Bùi Hoàng|Lân|18/05/2005|12A2 Sinh
+Nguyễn Hoàng|Lân|27/02/2005|12A2 CLC
+Nguyễn Thiều|Lê|21/09/2005|12A2 Hóa
+Đỗ Ngọc|Linh|15/06/2005|12A2 Sinh
+Lê Hà|Linh|05/07/2005|12A2 CLC
+Lương Ngọc|Linh|23/10/2005|12A1 CLC
+Lưu Gia|Linh|23/12/2005|12A2 Sinh
+Ngô Bảo|Linh|15/07/2005|12A2 Sinh
+Nguyễn Hà|Linh|28/12/2005|12A2 Sinh
+Nguyễn Hằng|Linh|25/01/2005|12A2 Toán
+Nguyễn Khánh|Linh|08/11/2005|12A2 Hóa
+Nguyễn Phương|Linh|10/11/2005|12A1 Hóa
+Nguyễn Thùy|Linh|04/02/2005|12A2 Toán
+Phạm Ngọc|Linh|15/04/2005|12A2 Tin
+Phạm Nguyễn Ngọc|Linh|28/02/2005|12A1 Hóa
+Phạm Tú|Linh|24/11/2005|12A1 Sinh
+Tống Khánh|Linh|05/05/2005|12A1 Hóa
+Trần Lê Gia|Linh|19/12/2005|12A1 Toán
+Trần Thị Hà|Linh|03/11/2005|12A1 Tin
+Trần Thị Ngọc|Linh|12/06/2005|12A2 Sinh
+Vũ Hoàng Khánh|Linh|20/01/2005|12A2 Hóa
+Mai Hồng|Lĩnh|17/07/2005|12A2 CLC
+Hoàng Lý Bảo|Long|21/03/2005|12A2 Hóa
+Lê Hoàng|Long|12/08/2005|12A1 Tin
+Lê Hoàng|Long|26/10/2005|12A1 Lý
+Lê Hoàng|Long|28/10/2005|12A2 CLC
+Nguyễn Khánh|Long|26/09/2005|12A1 Lý
+Nguyễn Phước Ngưỡng|Long|18/10/2005|12A1 Lý
+Phạm Huy Châu|Long|12/08/2005|12A1 Toán
+Trần Thế|Long|14/06/2005|12A1 Tin
+Nguyễn Minh|Lộc|29/05/2005|12A2 Tin
+Vương Quang|Lưu|25/05/2005|12A1 Sinh
+Nguyễn Hương|Ly|08/10/2005|12A1 CLC
+Vũ Đào Hương|Ly|06/07/2005|12A2 Toán
+Đặng Nguyễn Hoàng|Mai|28/04/2005|12A2 Hóa
+Hoàng Chi|Mai|06/01/2005|12A1 Sinh
+Hoàng Ngọc Quỳnh|Mai|05/10/2005|12A1 Hóa
+Lương Huyền|Mai|02/05/2005|12A2 Toán
+Nguyễn Thị Phương|Mai|02/07/2005|12A1 Sinh
+Võ Xuân|Mai|21/03/2005|12A2 Sinh
+Lê Quốc|Mạnh|22/11/2005|12A1 Sinh
+Mai Đức|Mạnh|01/09/2005|12A1 Toán
+Nguyễn Đình|Mạnh|30/06/2005|12A2 Lý
+Nguyễn Khắc|Mạnh|12/06/2005|12A2 Tin
+Vũ Đức|Mạnh|30/07/2005|12A1 Tin
+Bùi Nhật|Minh|04/10/2005|12A1 Toán
+Bùi Quế|Minh|13/08/2005|12A2 Toán
+Đào Mạnh Ngọc|Minh|01/02/2005|12A1 Hóa
+Đinh Công|Minh|09/06/2005|12A1 Tin
+Đỗ Hoàng|Minh|29/10/2005|12A1 Toán
+Hồ Đức|Minh|23/09/2005|12A2 Toán
+Hồ Như Phan|Minh|30/11/2005|12A1 Sinh
+Lại Đức|Minh|18/10/2005|12A1 Tin
+Lê Nhật|Minh|07/01/2005|12A2 Tin
+Lê Tuấn|Minh|16/08/2005|12A1 Hóa
+Nguyễn Anh|Minh|04/08/2005|12A2 Hóa
+Nguyễn Bá Hoàng|Minh|31/01/2005|12A2 Tin
+Nguyễn Diệu|Minh|27/03/2005|12A2 Sinh
+Nguyễn Đức|Minh|11/12/2005|12A1 Lý
+Nguyễn Gia|Minh|10/12/2005|12A1 Hóa
+Nguyễn Hà|Minh|16/08/2005|12A2 Toán
+Nguyễn Khả Tuấn|Minh|09/01/2005|12A1 Tin
+Nguyễn Khánh|Minh|05/03/2005|12A1 Toán
+Nguyễn Ngọc|Minh|27/04/2005|12A1 Sinh
+Nguyễn Ngọc Lê|Minh|26/10/2005|12A1 Toán
+Nguyễn Như Đức|Minh|24/11/2005|12A1 Tin
+Nguyễn Quang|Minh|21/07/2005|12A2 Toán
+Nguyễn Trần|Minh|23/01/2005|12A2 Sinh
+Nguyễn Trường|Minh|31/08/2005|12A2 Tin
+Nguyễn Tuấn|Minh|07/11/2005|12A2 Hóa
+Nông Đức|Minh|10/05/2005|12A1 Lý
+Phạm Hoàng|Minh|20/08/2005|12A2 CLC
+Thái Quang|Minh|12/10/2005|12A1 Hóa
+Tô Anh|Minh|29/12/2005|12A2 CLC
+Trần Bình|Minh|30/06/2005|12A2 Toán
+Trần Lê|Minh|24/07/2005|12A2 CLC
+Trần Ngọc|Minh|04/03/2005|12A2 Hóa
+Trần Ngọc|Minh|27/09/2005|12A1 Tin
+Trần Nguyễn Nhật|Minh|16/03/2005|12A1 Hóa
+Trần Nhật|Minh|20/03/2005|12A1 Sinh
+Trần Nhật|Minh|27/08/2005|12A1 CLC
+Trần Quang|Minh|19/07/2005|12A2 Tin
+Trương Tuệ|Minh|19/02/2005|12A2 Hóa
+Võ Nguyên|Minh|03/02/2005|12A1 Tin
+Vũ Đình Quang|Minh|30/08/2005|12A1 Tin
+Vũ Hoàng|Minh|16/05/2005|12A1 Tin
+Vương Đức|Minh|11/11/2005|12A2 Tin
+Vương Nhật|Minh|17/11/2005|12A1 Lý
+Phạm Trà|My|13/01/2005|12A2 Sinh
+Nguyễn Diệu|Mỹ|06/07/2005|12A2 Lý
+Đào Hải|Nam|20/11/2005|12A1 Lý
+Đỗ Tuấn|Nam|14/06/2005|12A2 Tin
+Trần Hào|Nam|16/02/2005|12A2 Lý
+Trần Ngọc Hải|Nam|10/11/2005|12A2 Lý
+Trần Thị Hằng|Nga|04/10/2005|12A2 CLC
+Nguyễn Hoàng|Ngân|19/04/2005|12A1 CLC
+Nguyễn Thanh|Ngân|17/04/2005|12A1 Hóa
+Nguyễn Hoàng Tuấn|Nghĩa|13/11/2005|12A1 Toán
+Nguyễn Khắc Minh|Nghĩa|22/08/2005|12A1 Tin
+Tăng Quốc|Nghĩa|08/10/2005|12A2 Tin
+Trần Khánh|Nghĩa|21/01/2005|12A1 Toán
+Vũ Trí|Nghĩa|31/03/2005|12A2 Lý
+Nguyễn Minh|Ngọc|18/02/2005|12A2 Sinh
+Nguyễn Minh|Ngọc|16/07/2005|12A1 CLC
+Phạm Hoàng Bảo|Ngọc|26/07/2005|12A1 Sinh
+Trần Bảo|Ngọc|03/02/2005|12A2 Lý
+Trương Bích|Ngọc|23/12/2005|12A1 Hóa
+Nguyễn Bách|Nguyên|20/07/2005|12A2 CLC
+Phan Hải|Nguyên|02/06/2005|12A1 Hóa
+Trần Khôi|Nguyên|31/08/2005|12A2 Hóa
+Trần Sỹ|Nguyên|13/04/2005|12A1 Toán
+Ngô Dương|Nhật|22/04/2005|12A1 Lý
+Hoàng|Nhi|17/08/2005|12A2 Lý
+Nguyễn Linh|Nhi|03/05/2005|12A2 Sinh
+Nguyễn Trịnh Phương|Nhi|04/02/2005|12A1 Tin
+Trần Châu Lan|Nhi|08/05/2005|12A2 Sinh
+Nguyễn Hải|Ninh|17/01/2005|12A2 Tin
+Đỗ Thị Phương|Oanh|28/08/2005|12A2 Tin
+Bùi Trường|Phát|09/05/2005|12A1 CLC
+Hoàng|Phong|11/10/2005|12A2 Lý
+Nguyễn Đức|Phong|01/03/2005|12A1 Lý
+Nguyễn Hải|Phong|27/01/2005|12A2 Tin
+Nguyễn Nguyên|Phong|17/09/2005|12A2 Toán
+Trần Thiện|Phong|11/12/2005|12A2 Lý
+Đỗ An|Phú|28/02/2005|12A2 Sinh
+Nguyễn Hữu|Phú|13/03/2005|12A2 Toán
+Nguyễn Khánh|Phúc|03/01/2005|12A1 Lý
+Nguyễn Minh|Phúc|25/02/2005|12A1 Tin
+Nguyễn Thanh|Phúc|29/01/2005|12A2 Tin
+Vũ Hồng|Phúc|27/09/2005|12A1 Toán
+Nguyễn Như|Phương|25/10/2005|12A2 Toán
+Nguyễn Thái|Phương|23/11/2005|12A1 CLC
+Nguyễn Việt|Phương|07/09/2005|12A1 Hóa
+Nguyễn Võ Hoàng|Phương|28/11/2005|12A1 Hóa
+Phạm Yến|Phương|01/04/2005|12A2 Sinh
+Trần Nam|Phương|07/11/2005|12A1 Toán
+Vũ Minh|Phương|19/07/2005|12A1 Sinh
+Hoàng Phạm Việt|Quang|02/12/2005|12A2 Toán
+Ngô Nhật|Quang|18/05/2005|12A2 Tin
+Nguyễn Trần|Quang|07/02/2005|12A1 Tin
+Phan Minh|Quang|22/09/2005|12A2 Hóa
+Trần Thế|Quang|06/11/2005|12A2 CLC
+Dương Anh|Quân|10/12/2005|12A1 Lý
+Hoàng Văn Anh|Quân|15/03/2005|12A1 CLC
+Lương Minh|Quân|09/08/2005|12A1 Toán
+Nguyễn Ngọc|Quân|12/09/2005|12A2 Lý
+Tạ Minh|Quân|21/05/2005|12A1 Tin
+Trương Đức|Quân|29/03/2005|12A2 Tin
+Đoàn Thị Tâm|Quyên|28/03/2005|12A1 Sinh
+Đỗ Hồng|Quyền|16/01/2005|12A1 CLC
+Trần Chí|Quý|28/11/2005|12A1 Lý
+Đặng Hoàng|Sơn|15/12/2005|12A2 Toán
+Đỗ Hải|Sơn|02/10/2005|12A1 CLC
+Hoàng Thái|Sơn|06/11/2005|12A2 Toán
+Lê Thế|Sơn|29/08/2005|12A1 Lý
+Lê Vũ Hoàng|Sơn|04/11/2005|12A1 Toán
+Nguyễn Phúc|Sơn|11/03/2005|12A2 Toán
+Nguyễn Anh|Tài|13/05/2005|12A1 Hóa
+Nguyễn Hoàng Minh|Tâm|04/09/2005|12A2 Tin
+Nguyễn Minh|Tâm|28/01/2005|12A2 Sinh
+Phạm Văn|Tấn|02/08/2005|12A1 Sinh
+Ngô Thị Hiền|Thanh|29/05/2005|12A2 Tin
+Bùi Đức|Thành|18/07/2005|12A2 Lý
+Đinh Nhật|Thành|10/04/2005|12A2 Toán
+Nguyễn Bình|Thành|14/02/2005|12A1 CLC
+Nguyễn Việt|Thành|27/06/2005|12A2 Toán
+Nguyễn Vinh|Thành|22/01/2005|12A2 CLC
+Tạ Tuấn|Thành|28/06/2005|12A1 CLC
+Trịnh Tuấn|Thành|16/01/2005|12A2 Tin
+Lê Phương|Thảo|11/01/2005|12A1 Toán
+Nguyễn Hương|Thảo|08/04/2005|12A1 CLC
+Phạm Nhật|Thảo|24/01/2005|12A1 Sinh
+Trần Phương|Thảo|08/09/2005|12A2 CLC
+Trịnh Thanh|Thảo|18/12/2005|12A2 Sinh
+Hoàng Danh|Thái|12/11/2005|12A2 Tin
+Ngô Quốc|Thái|24/09/2005|12A2 CLC
+Nguyễn Quang|Thái|28/02/2005|12A2 Tin
+Phạm Quốc|Thái|08/06/2005|12A2 Hóa
+Quyền Phạm Kỳ|Thái|05/06/2005|12A1 CLC
+Ngô Đức|Thắng|20/12/2005|12A1 Tin
+Nguyễn Đức|Thắng|22/03/2005|12A1 Toán
+Nguyễn Việt|Thắng|30/04/2005|12A2 Lý
+Trần Toàn|Thắng|29/09/2005|12A1 Lý
+Nguyễn Thanh|Thủy|29/06/2005|12A2 Hóa
+Bùi Anh|Thư|05/10/2005|12A2 Sinh
+Vũ Anh|Thư|29/03/2004|12A2 Sinh
+Nguyễn Ngọc Thủy|Tiên|27/04/2005|12A1 Hóa
+Trần Đức|Tiến|14/01/2005|12A1 Lý
+Đỗ Doãn|Tín|16/01/2005|12A2 Sinh
+Đỗ Mai Thu|Trang|23/07/2005|12A1 Sinh
+Hoàng Hạnh|Trang|13/08/2005|12A2 Sinh
+Hoàng Mai|Trang|28/02/2005|12A1 Tin
+Nguyễn Thu|Trang|04/12/2005|12A1 Lý
+Phan Diệu Thùy|Trang|03/12/2005|12A1 Hóa
+Nguyễn Đức|Trọng|07/08/2005|12A1 Toán
+Bùi Thế|Trung|03/02/2005|12A2 Lý
+Đàm Thành|Trung|12/01/2005|12A2 Sinh
+Ngô Quốc|Trung|11/05/2005|12A1 Lý
+Nguyễn Đức|Trung|31/05/2005|12A1 CLC
+Nguyễn Nhật|Trung|14/10/2005|12A2 Lý
+Nguyễn Quốc|Trung|19/01/2005|12A2 Toán
+Vũ Tiến Tuấn|Trung|05/07/2005|12A2 CLC
+Trần Đình Gia|Trường|06/08/2005|12A2 Sinh
+Phạm Quang|Trực|19/09/2005|12A2 Tin
+Lê Anh|Tuấn|08/07/2005|12A1 Hóa
+Phạm Minh|Tuấn|25/10/2005|12A1 Lý
+Trần Anh|Tuấn|10/10/2005|12A1 Lý
+Đỗ Hoàng|Tùng|22/01/2005|12A2 Hóa
+Lê Sơn|Tùng|15/11/2005|12A2 CLC
+Lê Việt|Tùng|08/01/2005|12A1 Lý
+Lê Xuân|Tùng|27/05/2005|12A1 Toán
+Nguyễn Đỗ Đăng|Tùng|18/01/2005|12A2 Hóa
+Nguyễn Quang|Tùng|20/01/2005|12A1 Sinh
+Hà Đỗ Anh|Tú|29/07/2005|12A1 Tin
+Hà Tài|Tú|10/02/2005|12A2 Hóa
+Lê Anh|Tú|08/11/2005|12A2 CLC
+Nguyễn Anh|Tú|28/11/2005|12A1 Hóa
+Nguyễn Hoàng Thanh|Tú|26/04/2005|12A2 Hóa
+Nguyễn Lương|Uy|13/02/2005|12A2 Toán
+Nguyễn Thái Thu|Vân|07/11/2005|12A1 Hóa
+Hoàng Hải|Việt|16/06/2005|12A2 Lý
+Nguyễn Anh|Việt|09/10/2005|12A2 Hóa
+Nguyễn Tuấn|Việt|30/06/2005|12A2 CLC
+Lê Thành|Vinh|16/01/2005|12A2 Lý
+Nguyễn Đức Thành|Vinh|10/11/2005|12A2 Hóa
+Nguyễn Thế|Vinh|31/03/2005|12A1 Toán
+Nguyễn Xuân|Vinh|19/10/2005|12A2 Toán
+Thành Hùng|Vinh|25/09/2005|12A1 CLC
+Phạm Bá|Vĩnh|16/08/2005|12A2 Sinh
+Phạm Trung|Vĩnh|19/05/2005|12A2 Lý
+Đào Minh|Vũ|28/11/2005|12A1 Hóa
+Lê Phạm Thế|Vũ|22/09/2005|12A2 Lý
+Trần Ngọc Nam|Vũ|24/01/2005|12A2 Toán
+Cao Trường|Xuân|13/02/2005|12A2 Tin
